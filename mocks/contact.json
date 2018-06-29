@@ -1,0 +1,91 @@
+{
+  "name": "Maimoon",
+  "username": "maimoons",
+  "address": {
+    "streetA": "Suduq 131",
+    "streetB": "Education City",
+    "streetC": "Majlis Al Shamali",
+    "streetD": "",
+    "city": "Doha",
+    "state": "",
+    "country": "Qatar",
+    "zipcode": "",
+    "geo": {
+      "lat": "-75.8513",
+      "lng": "81.3262"
+    }
+  },
+  "website": "maimoons.qatar.cmu.edu",
+  "bio":
+    "A Computer Science Sophomore",
+  "company": {
+    "name": "Carnegie Mellon University",
+    "catchPhrase": "I'm cool",
+    "bs": "blah"
+  },
+  "avatar": "https://firebasestorage.googleapis.com/v0/b/groupapplication-8c04d.appspot.com/o/Images%2Fdownload.png?alt=media&token=6673c5da-bb6d-42db-aff2-0d9c9ca7aa5f",
+  "avatarBackground":
+    "https://firebasestorage.googleapis.com/v0/b/qsiurp2018-24c40.appspot.com/o/kilt.png?alt=media&token=c9349cd8-e173-4f2a-9675-65f167597d66",
+  "tels": [
+    { "id": 1, "name": "Mobile", "number": "+974 33037911" }  ],
+  "emails": [
+    { "id": 1, "name": "Personal", "email": "maimoons@andrew.cmu.edu" }  ],
+  "courses": [
+    { "id": 1, "name": "Courses", "courses": "+974 33037911" }  ],
+  "posts": [
+    {
+      "id": 1,
+      "words": "cupiditate qui cum",
+      "sentence": "Ipsum laborum quasi debitis dolores veniam.",
+      "sentences":
+        "Impedit veritatis harum nihil dolores dolorem optio assumenda. Laborum saepe voluptas officia odit. Ut voluptas mollitia mollitia eum autem quisquam qui aut. Et ipsa hic harum molestias et quam qui cum. Sint sit soluta.",
+      "paragraph":
+        "Beatae voluptas ea magni quibusdam dolorem sit aut qui. Dolorem rerum et consequuntur inventore officia excepturi dolore architecto fuga. Quia consequatur asperiores rerum qui corporis dolorum. At harum velit adipisci iste odit modi veniam ut. Deserunt quibusdam velit non ea.",
+      "image":
+        "https://d25tv1xepz39hi.cloudfront.net/2016-12-19/files/foodphotoghacks_image8.jpg",
+      "createdDate": "2017-11-21T02:33:53.770Z",
+      "user": {
+        "name": "Ronaldo",
+        "username": "Ronaldo.Effertz",
+        "avatar":
+          "https://s3.amazonaws.com/uifaces/faces/twitter/samuelkraft/128.jpg",
+        "email": "Ronaldo.Effertz.Deckow@hotmail.com"
+      }
+    },
+    {
+      "id": 2,
+      "words": "est voluptatum aut",
+      "sentence": "Omnis omnis aut dolor quaerat sunt et optio.",
+      "sentences":
+        "Nam numquam magni saepe. Deserunt aspernatur dolorem libero soluta sint molestias et sint sed. Maiores id quis assumenda voluptates quos ut saepe officia voluptatem. Ea placeat sed ut. Modi sed earum voluptas cumque unde eum doloribus ipsam.",
+      "paragraph":
+        "Quam aut reprehenderit asperiores aut. Sunt quis aspernatur incidunt. Illo et perferendis ex incidunt eos ut maxime dolorem voluptatem. Qui rem nihil quos cumque eum doloribus. Quae beatae tempore commodi.",
+      "createdDate": "2017-11-20T18:04:58.858Z",
+      "user": {
+        "name": "Markus",
+        "username": "Markus.Price68",
+        "avatar":
+          "https://s3.amazonaws.com/uifaces/faces/twitter/kikillo/128.jpg",
+        "email": "Markus.Price68.Dicki@yahoo.com"
+      }
+    },
+    {
+      "id": 3,
+      "words": "vitae voluptas quia",
+      "sentence": "Voluptates dolor ad rem amet voluptas.",
+      "sentences":
+        "Rem ipsum quis. Animi ipsum ut at possimus. Beatae molestiae non odio soluta quidem ut suscipit.",
+      "paragraph":
+        "Veniam veritatis nihil illum rerum et. Temporibus facere sed delectus corporis alias. Et odio aliquid est. Quas sit et quia tempora sit eveniet quam.",
+      "createdDate": "2017-03-24T10:56:15.461Z",
+      "image": "https://touristmeetstraveler.com/wp-content/uploads/sushi.jpg",
+      "user": {
+        "name": "Magali",
+        "username": "Magali16",
+        "avatar":
+          "https://s3.amazonaws.com/uifaces/faces/twitter/mastermindesign/128.jpg",
+        "email": "Magali1664@gmail.com"
+      }
+    }
+  ]
+}
